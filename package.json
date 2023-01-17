@@ -1,0 +1,41 @@
+{
+  "name": "bank",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.11.6",
+    "axios": "^1.2.2",
+    "bootstrap": "^5.2.3",
+    "crypto-js": "^4.1.1",
+    "currency-flags": "^4.0.0",
+    "i18next": "^22.4.5",
+    "i18next-browser-languagedetector": "^7.0.1",
+    "i18next-http-backend": "^2.1.0",
+    "js-cookie": "^3.0.1",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.0",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "react-hook-form": "^7.41.1",
+    "react-i18next": "^12.1.1",
+    "react-icons": "^4.7.1",
+    "react-owl-carousel": "^2.3.3",
+    "react-pro-sidebar": "^1.0.0-alpha.10",
+    "react-router-dom": "^6.4.3",
+    "react-toastify": "^9.1.1",
+    "react-webcam": "^7.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.24",
+    "@types/react-dom": "^18.0.8",
+    "@vitejs/plugin-react": "^2.2.0",
+    "flag-icon-css": "^4.1.7",
+    "vite": "^3.2.3"
+  }
+}

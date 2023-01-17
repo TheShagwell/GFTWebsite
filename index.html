@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Transfer Money. No Stress. Free | FirstBank Nigeria</title>
+    <link href="/images/First-Bank-Logo_Symbol_Favicon.svg" rel="icon" />
+    <meta name="description" content="This professional design html template is for build a Money Transfer and online payments website.">
+    <meta name="author" content="harnishdesign.net">
+    
+    <!-- Stylesheet
+  ============================================= -->
+    <link rel="stylesheet" type="text/css" href="/vendor/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="/vendor/font-awesome/css/all.min.css" />
+    <link rel="stylesheet" type="text/css" href="/vendor/owl.carousel/assets/owl.carousel.min.css" />
+    <link rel="stylesheet" type="text/css" href="/css/stylesheet.css" />
+    <link rel="stylesheet" type="text/css" href="/css/custom.css" />
+    <link rel="stylesheet" type="text/css" href="/vendor/bootstrap-select/css/bootstrap-select.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" type="text/css" href="/vendor/currency-flags/css/currency-flags.min.css" />
+    <link rel="stylesheet" type="text/css" href="/vendor/daterangepicker/daterangepicker.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.6.6/css/flag-icons.min.css" />
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+    
+    <script src="/vendor/jquery/jquery.min.js"></script>
+    <!-- <script src="/vendor/bootstrap/js/bootstrap.min.js"></script> -->
+    <script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/vendor/owl.carousel/owl.carousel.min.js"></script>
+    <script src="/js/theme.js"></script>
+    <script src="/vendor/daterangepicker/moment.min.js"></script>
+    <script src="/vendor/daterangepicker/daterangepicker.js"></script>
+    <script>
+        $(function () {
+            'use strict';
+            // Payment due by
+            $('#paymentDue').daterangepicker({
+                singleDatePicker: true,
+                minDate: moment(),
+                autoUpdateInput: false,
+            }, function (chosen_date) {
+                $('#paymentDue').val(chosen_date.format('MM-DD-YYYY'));
+            });
+        });
+    </script>
+    <script>
+      // Get the modal
+      var modal = document.getElementById('webCamera');
+      
+      // When the user clicks anywhere outside of the modal, close it
+      window.onclick = function(event) {
+        if (event.target == modal) {
+          modal.style.display = "none";
+        }
+      }
+      </script>
+  </body>
+</html>

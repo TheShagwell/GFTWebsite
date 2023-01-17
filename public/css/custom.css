@@ -1,0 +1,59 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Hanlding Updates
+-----------------------------------------------------------------*/
+
+.registerd .form-control:focus{
+    background:none !important;
+}
+
+.registerd .form-control:focus,
+.registerd .form-select:focus {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+	border-width: thin;
+	border-image-slice: 30;
+	border-image-source: url('../images/bg/Ankara.jpg');
+	transition: 2s all;
+	border-radius: 20px !important;
+}
+
+.main-wrapper{
+	position: relative;
+	/* z-index: 9999; */
+}
+
+.ankara::after{
+	content: '';
+	position: absolute;
+	left: 0;
+	top: 0;
+	display: block !important;
+	height: 8%;
+	width: 100%;
+	background-image: url('../images/bg/Ankara.jpg');
+	background-position: center;
+	/* background-repeat: no-repeat; */
+	background-size: 25%;
+	mix-blend-mode: darken;
+	z-index: 9999;
+}
+
+.front{
+	background-color: #ffffff !important;
+	/* z-index: 9999; */
+}
+
+.spacing{
+	margin-top: 70px !important;
+	margin-bottom: 70px !important;
+	/* color: #f00; */
+	/* color: #cecece */
+	/* margin: 50px 0 !important; */
+}
+
+bg-primary:hover{
+	background: none !important;
+}

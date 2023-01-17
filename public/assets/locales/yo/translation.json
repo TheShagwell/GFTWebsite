@@ -1,0 +1,125 @@
+{
+
+    "language": "Ede",
+
+    "loginTitle": "Ẹ kaabọ!",
+    "loginText": "Inu wa dun lati ri ọ lẹẹkansi! gbe ati gba awọn owo ti a gbẹkẹle nipasẹ awọn miliọnu agbaye.",
+    "loginTextMainTitle": "Wọle si akọọlẹ rẹ",
+    "loginTextParagraphy": "Lati wọle si akọọlẹ rẹ, jọwọ fọwọsi awọn alaye rẹ",
+    "inputEmailTitle": "Imeeli",
+    "inputEmailText": "Tẹ Imeeli Rẹ sii",
+    "inputPasswordTitle": "Ọrọigbaniwọle",
+    "inputPasswordText": "Tẹ Ọrọigbaniwọle Rẹ sii",
+    "inputRememberText": "Ranti mi",
+    "inputForgotText": "gbagbe ọrọigbaniwọle?",
+    "inputLoginBtnText": "Wo ile",
+    "DontAccountText": "Ṣe ko ni akọọlẹ kan?",
+    "DontAccountBtnText": "Forukọsilẹ",
+
+    "userHeaderlink1": "awọn ọja",
+    "userHeaderlink2": "firanṣẹ",
+    "userHeaderlink3": "gba",
+    "userHeaderlink4": "Egba Mi O",
+    "userHeaderlink5": "ile-iṣẹ",
+    "userHeaderlink6": "dasibodu",
+    "home_btn_1": "wo ile",
+    "home_btn_2": "forukọsilẹ",
+
+    "home_main-Title1": "Ni aabo,",
+    "home_main-Title2": "rọrun julọ ati iyara",
+    "home_main-Title3": "ọna lati gbe owo.",
+    "home_main-paragraphy-text1": "Firanṣẹ & Gba owo si awọn ayanfẹ rẹ ni awọn iṣẹju pẹlu awọn oṣuwọn nla ati awọn idiyele kekere. Ju awọn orilẹ-ede 50 lọ ati awọn owo nina 23 ni atilẹyin.",
+
+
+
+    "home_Hero1-Title": "fi owo nibikibi. nigbakugba",
+    "home_Hero1-paragraphy-text1": "Ni iyara ati irọrun firanṣẹ ati gba awọn owo laarin frica laisi hussle. Ju awọn orilẹ-ede 80 lọ ati awọn owo nina 100 ni atilẹyin.",
+    "home_Hero1-button-1": "Firanṣẹ Owo laisiyonu",
+    "home_Hero1-button-2": "Wo bi o ti ṣiṣẹ",
+    
+    "home_Hero2-Title": "Ọna to ni aabo, irọrun ati iyara julọ lati gbe owo lọ.",
+    "home_Hero1-paragraphy-text2": "Ju awọn orilẹ-ede 180 ati awọn owo nina 120 ṣe atilẹyin.",
+    "home_Hero2-button-1": "Bẹrẹ fun ọfẹ",
+    "home_Hero2-button-2": "Wo Ririnkiri",
+
+    "content_unique_head": "4 Awọn ọna alailẹgbẹ lati gba Ṣiṣawari",
+    "content_unique_paragraph": "Eyi ni Awọn idi Top 4 idi ti lilo awọn iṣẹ wa ṣe pataki lati firanṣẹ ati gba awọn owo.",
+    "content_unique_ways1_head": "4 Awọn ọna alailẹgbẹ lati gba Ṣiṣawari",
+    "content_unique_ways1_text": "Lo iru ẹrọ ori ayelujara tabi awọn ohun elo alagbeka lori Google playstore ati iOS.",
+    "content_unique_ways1_ghostBtn": "Kọ ẹkọ diẹ si",
+    "content_unique_ways2_head": "Awọn sisanwo yiyara",
+    "content_unique_ways2_text": "Gba sisanwo iyara pupọ lori ijẹrisi gbigbe owo tabi gbigba owo.",
+    "content_unique_ways2_ghostBtn": "Kọ ẹkọ diẹ si",
+    "content_unique_ways3_head": "Owo gbigbe",
+    "content_unique_ways3_text": "Gbe owo lori ayelujara, ni eniyan, tabi eyikeyi FirstBank ẹka ati First MonieAgent.",
+    "content_unique_ways3_ghostBtn": "Kọ ẹkọ diẹ si",
+    "content_unique_ways4_head": "100% aabo",
+    "content_unique_ways4_text": "Gbigbe ati Gba inawo pẹlu pẹpẹ wa ti o ni aabo laisi awọn aibikita eyikeyi.",
+    "content_unique_ways4_ghostBtn": "Kọ ẹkọ diẹ si",
+
+    "Borderless_head": "Awọn ọna aala lati lo awọn iṣẹ wa.",
+    "Borderless_text": "Owo fifiranṣẹ ti ni bayi rọrun pupọ laisi wahala. O le gba inawo ni bayi nipa lilọ si eyikeyi ẹka FirstBank. Onibara ti o wa tẹlẹ ati tuntun le wọle si eyikeyi ẹka ti FirstBank, Aṣoju Iṣowo Iforukọsilẹ (POS & Aṣoju FirstMonie) lati gbe awọn owo ni eyikeyi owo si akọọlẹ ile-iṣẹ banki ẹnikẹta kan laarin awọn iṣẹju ati lati gba owo",
+    "Borderless_btn": "Wa ojutu diẹ sii",
+    "BorderlessImgText1": "Fi Owo ranṣẹ",
+    "BorderlessImgText2": "Gba Owo",
+    "BorderlessImgText3": "Awọn aṣoju FirstMonie",
+    "BorderlessImgText4": "Sanwo pẹlu Kaadi",
+
+    "ServiceWeCanOffer_title": "Kini o le ṣe pẹlu app tuntun wa?",
+    "ServiceWeCanOffer_subtext": "O le gbadun awọn iṣẹ wa ti a nṣe lori-lọ lati itunu ti ile rẹ.",
+    "ServiceWeCanOffer_card1": "Fi Owo ranṣẹ",
+    "ServiceWeCanOffer_card2": "Gba Owo",
+    "ServiceWeCanOffer_card3": "San Ọrẹ kan",
+    "ServiceWeCanOffer_card4": "Ohun tio wa lori ayelujara",
+
+    "Testimonials_title": "Ohun ti eniyan n sọ",
+    "Testimonials_subtext": "A sisan iriri eniyan ni ife lati soro nipa",
+    "Testimonials_1": "“Rọrun lati lo, ati igbẹkẹle lati lo pẹlu hussle ti idaduro ni isinyi.”",
+    "Testimonials_person": "Jummai Luafia",
+    "Testimonials_person_span": "Onibara",
+    "Testimonials_2": "“O jẹ imọran ti o dara gidi lati ṣakoso owo rẹ. Awọn oṣuwọn jẹ itẹ ati pe o le ṣe awọn iṣowo laisi aibalẹ!",
+    "Testimonials_person2": "Ibukun Simeoni",
+    "Testimonials_person2_span": "Onibara",
+    "Testimonials_3": "“Mo ti lo wọn lẹẹmeji ni bayi. Awọn oṣuwọn to dara, iṣẹ ti o munadoko pupọ”",
+    "Testimonials_person3": "Olamide Adeyemi",
+    "Testimonials_person3_span": "Onibara",
+    "Testimonials_btn": "Ri diẹ eniyan awotẹlẹ",
+
+
+    "Downloads_the_app": "Gba ohun elo naa",
+    "Downloads_the_app_title": "Ṣe igbasilẹ ohun elo wa fun iyara, ọna irọrun julọ lati firanṣẹ & gba isanwo.",
+
+
+    "footer_link1_head": "ALAYE",
+    "footer_link1_f1": "Nipa re",
+    "footer_link2_f1": "Awọn iṣẹ-ṣiṣe",
+    "footer_link3_f1": "Alafaramo",
+    "footer_link4_f1": "Fees",
+
+    "footer_services_head": "Awọn iṣẹ",
+    "footer_services_f1": "Transfer Money",
+    "footer_services_f2": "Fi Owo ranṣẹ",
+    "footer_services_f3": "Gba Owo",
+    "footer_services_f4": "Ohun tio wa lori ayelujara",
+    "footer_services_f5": "San owo",
+
+    "footer_support_head": "Ile-iṣẹ Iranlọwọ",
+    "footer_support_f1": "Pe wa",
+    "footer_support_f2": "Atilẹyin",
+    "footer_support_f3": "Egba Mi O",
+
+    "footer_social_head": "Wa nitosi",
+    "footer_social_f1": "facebook",
+    "footer_social_f2": "twitter",
+    "footer_social_f3": "Linkedin",
+    "footer_social_f4": "youtube",
+
+    "footer_subscribe_head": "Alabapin",
+    "footer_subscribe_f1": "Alabapin lati gba awọn iroyin titun ati awọn imudojuiwọn.",
+    "footer_subscribe_f2": "Kini imeli adiresi re",
+
+    "footer_bottom_1": "Aṣẹ-lori-ara © 2022 FirstBank of Nigeria. Gbogbo awọn ẹtọ wa ni ipamọ",
+    "footer_bottom_2": "Aabo",
+    "footer_bottom_3": "Awọn ofin",
+    "footer_bottom_4": "Asiri"
+}
